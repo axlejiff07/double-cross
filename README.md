@@ -58,6 +58,7 @@ Step 2: https://fastapi.tiangolo.com/tutorial/path-params/
   - [test]: Test cases for xyz feature added
   - [readme]: Readme file updated
   - [lint]: Files formatted with xyz linter
+  
   **In case of two different types of commits like [add] and [mod], choose the topmost type from above vertical list. In this case, [add] is above [mod] so choose that commit message.
   ** One commit should have one job, i.e., apply atomicity.
 
