@@ -45,6 +45,7 @@ FastAPI framework
 # Instructions for testing the code
 
 Step 1: https://fastapi.tiangolo.com/tutorial/first-steps/
+
 Step 2: https://fastapi.tiangolo.com/tutorial/path-params/
 
 # Git & coding paradigms to be followed
@@ -79,6 +80,7 @@ Step 2: https://fastapi.tiangolo.com/tutorial/path-params/
 - Use Python VS code extension: https://marketplace.visualstudio.com/items?itemName=ms-python.python
 - Use markdownlint extension: https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
 - Use docstrings for documentation: VS code extension: https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring
+
     """_summary_
 
     :return: _description_
